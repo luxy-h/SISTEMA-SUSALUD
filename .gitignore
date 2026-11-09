@@ -1,0 +1,16 @@
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dependencias y temporales
+/vendor/
+/node_modules/
+*.log
+*.tmp
+
+# Configuración local y secretos
+.env
+.env.*
+!.env.example
